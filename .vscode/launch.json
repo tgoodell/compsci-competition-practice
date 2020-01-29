@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Launch",
-            "type": "go",
+            "type": "java",
             "request": "launch",
             "mode": "auto",
             "program": "${fileDirname}",
